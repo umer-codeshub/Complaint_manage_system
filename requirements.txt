@@ -1,0 +1,10 @@
+# Python 3.11 recommended; CrewAI uses LiteLLM for Groq.
+crewai[litellm]>=1.15.0,<2.0
+streamlit>=1.40,<2.0
+pydantic[email]>=2.9,<3.0
+filelock>=3.12,<4.0
+google-api-python-client>=2.150,<3.0
+google-auth>=2.35,<3.0
+google-auth-oauthlib>=1.2,<2.0
+python-dotenv>=1.0,<2.0
+pytest>=8,<10

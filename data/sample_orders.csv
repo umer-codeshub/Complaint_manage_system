@@ -1,0 +1,11 @@
+order_id,customer_id,customer_name,customer_email,order_date,expected_delivery_date,actual_delivery_date,order_status,tracking_status,product_name,order_amount,refund_status
+DEMO-1001,C001,Ayesha Khan,ayesha@example.com,2026-09-21,2026-09-29,,in_transit,Delayed at sorting center,Wireless Headphones,79.99,not_requested
+DEMO-1002,C002,Ali Raza,ali@example.com,2026-09-25,2026-10-01,2026-10-02,delivered,Delivered,Smartwatch,149.00,not_requested
+DEMO-1003,C003,Sana Malik,sana@example.com,2026-08-10,2026-08-18,2026-08-20,delivered,Delivered,Running Shoes,64.50,not_requested
+DEMO-1004,C004,Bilal Ahmed,bilal@example.com,2026-09-27,2026-10-03,,in_transit,Carrier investigating missing scan,Mechanical Keyboard,112.00,not_requested
+DEMO-1005,C005,Hira Noor,hira@example.com,2026-09-26,2026-10-02,2026-10-02,delivered,Delivered,Backpack,49.00,not_requested
+DEMO-1006,C006,Hassan Shah,hassan@example.com,2026-09-23,2026-09-29,2026-09-29,delivered,Delivered,Laptop,1399.00,not_requested
+DEMO-1007,C007,Zara Fatima,zara@example.com,2026-10-02,2026-10-10,,processing,Not shipped,Winter Jacket,89.00,not_requested
+DEMO-1008,C008,Ahmed Javed,ahmed@example.com,2026-09-24,2026-10-01,2026-10-01,delivered,Delivered,Portable Speaker,55.00,not_requested
+DEMO-1009,C009,Maria Iqbal,maria@example.com,2026-09-22,2026-09-30,,in_transit,Weather exception,Desk Lamp,39.00,not_requested
+DEMO-1010,C010,Talha Arif,talha@example.com,2026-09-20,2026-09-27,2026-09-28,delivered,Delivered,Gaming Mouse,29.99,pending_review
